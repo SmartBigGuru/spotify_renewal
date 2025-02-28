@@ -1,1 +1,1 @@
-# spotify_renewal
+# spotify-renewal
